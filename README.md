@@ -1,5 +1,5 @@
 # Weather-App
-Weather App A simple weather app that shows the current weather and an icon based on the weather condition.  
+A simple weather app that shows the current weather and an icon based on the weather condition.  
 
 # How to Use 
 1. Enter a city name in the input field. 
